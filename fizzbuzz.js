@@ -23,4 +23,4 @@ function fizzBuzz(set) {
   };
 };
 
-fizzBuzz(range)
+fizzBuzz(range);
